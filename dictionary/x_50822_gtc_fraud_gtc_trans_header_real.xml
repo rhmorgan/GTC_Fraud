@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="GTC Trans Header Real" max_length="40" name="x_50822_gtc_fraud_gtc_trans_header_real" type="collection">
+        <element display="true" label="Account Number" max_length="40" name="account_number" read_only="true" type="string"/>
+        <element label="Comments" max_length="4000" name="comments" type="string"/>
+        <element label="Distance" max_length="40" name="distance" read_only="true" type="integer"/>
+        <element label="Method" max_length="40" name="method" read_only="true" type="string"/>
+        <element label="Review Category" max_length="40" name="review_category" read_only="true" type="string"/>
+        <element label="Statement Date" max_length="40" name="statement_date" read_only="true" type="glide_date"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Reviewed-No Action" value="Reviewed-No Action"/>
+                <element inactive_on_update="false" label="Sent to Security" value="Sent to Security"/>
+                <element inactive_on_update="false" label="To Be Reviewed-Non Suspicious" value="To Be Reviewed-Non Suspicious"/>
+                <element inactive_on_update="false" label="To Be Reviewed-Suspicious" value="To Be Reviewed-Suspicious"/>
+                <element inactive_on_update="false" label="NA" sequence="0" value="NA"/>
+            </choice>
+        </element>
+        <element label="Total Spend" max_length="20" name="total_spend" read_only="true" type="currency"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <index name="index">
+            <element name="account_number"/>
+        </index>
+    </element>
+</database>

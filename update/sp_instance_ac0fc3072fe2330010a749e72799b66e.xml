@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">62d8ba072fa2330010a749e72799b62b</sp_column>
+        <sp_widget display_value="Report">e41aa2d29f0222008252baac757fcfce</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-14 20:10:29</sys_created_on>
+        <sys_id>ac0fc3072fe2330010a749e72799b66e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sp_instance_ac0fc3072fe2330010a749e72799b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-14 20:10:48</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"report_id": {
+		"value": "c9f647cf2fa2330010a749e72799b673",
+		"displayValue": "GTC Cash Transactions"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac0fc3072fe2330010a749e72799b66e"/>
+</record_update>

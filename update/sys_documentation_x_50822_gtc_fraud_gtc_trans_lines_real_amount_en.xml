@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="amount" label="Amount" language="en" table="x_50822_gtc_fraud_gtc_trans_lines_real">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <help/>
+            <hint/>
+            <label>Amount</label>
+            <language>en</language>
+            <name>x_50822_gtc_fraud_gtc_trans_lines_real</name>
+            <plural>Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:26:09</sys_created_on>
+            <sys_id>13d4034f2fa2330010a749e72799b6dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Amount</sys_name>
+            <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+            <sys_update_name>sys_documentation_x_50822_gtc_fraud_gtc_trans_lines_real_amount_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:26:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

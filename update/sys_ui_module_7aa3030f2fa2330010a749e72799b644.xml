@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GTC Transactions">0a018f4b2fa2330010a749e72799b640</application>
+        <filter/>
+        <name>GTC Trans Lines Reals</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_50822_gtc_fraud.gtc_trans_lines_real_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-14 19:20:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7aa3030f2fa2330010a749e72799b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GTC Trans Lines Reals</sys_name>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sys_ui_module_7aa3030f2fa2330010a749e72799b644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-14 19:20:56</sys_updated_on>
+        <table>x_50822_gtc_fraud_gtc_trans_lines_real</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

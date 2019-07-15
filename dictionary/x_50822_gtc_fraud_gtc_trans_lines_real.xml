@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="GTC Trans Lines Real" max_length="40" name="x_50822_gtc_fraud_gtc_trans_lines_real" type="collection">
+        <element display="true" label="Account Number" max_length="40" name="account_number" type="string"/>
+        <element label="Account Number Link" max_length="32" name="account_number_link" reference="x_50822_gtc_fraud_gtc_trans_header_real" type="reference"/>
+        <element label="Amount" max_length="20" name="amount" type="currency"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Location" max_length="200" name="location" type="string"/>
+        <element label="MCC" max_length="6" name="mcc" type="string"/>
+        <element label="MCC Category" max_length="200" name="mcc_category" type="string"/>
+        <element label="MCC Description" max_length="200" name="mcc_description" type="string"/>
+        <element label="Reference Number" max_length="40" name="reference_number" type="integer"/>
+        <index name="index">
+            <element name="account_number"/>
+            <element name="reference_number"/>
+        </index>
+        <index name="index2">
+            <element name="account_number_link"/>
+        </index>
+    </element>
+</database>

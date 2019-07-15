@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="387b87832fe2330010a749e72799b604" sys_domain="global" table="x_50822_gtc_fraud_gtc_trans_header_real" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c7b87832fe2330010a749e72799b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_50822_gtc_fraud_gtc_trans_header_real" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">387b87832fe2330010a749e72799b604</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">33090f032fe2330010a749e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:54:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>787b87832fe2330010a749e72799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_50822_gtc_fraud_gtc_trans_header_real" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">387b87832fe2330010a749e72799b604</sys_ui_form>
+            <sys_ui_section caption="Transactions" display_value="Transactions" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">f87b87832fe2330010a749e72799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:54:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09db4b832fe2330010a749e72799b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_50822_gtc_fraud_gtc_trans_header_real" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">387b87832fe2330010a749e72799b604</sys_ui_form>
+            <sys_ui_section caption="Data Science Methodology" display_value="Data Science Methodology" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">7cdb4b832fe2330010a749e72799b6a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:56:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_50822_gtc_fraud_gtc_trans_header_real</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:54:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>387b87832fe2330010a749e72799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_50822_gtc_fraud_gtc_trans_header_real</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+            <sys_update_name>sys_ui_form_sections_387b87832fe2330010a749e72799b604</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:54:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

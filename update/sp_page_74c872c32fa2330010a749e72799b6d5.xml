@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>gtc_fraud_prototype</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-14 18:33:17</sys_created_on>
+        <sys_id>74c872c32fa2330010a749e72799b6d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gtc_fraud_prototype</sys_name>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sp_page_74c872c32fa2330010a749e72799b6d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-14 18:33:17</sys_updated_on>
+        <title>GTC Fraud Prototype</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=74c872c32fa2330010a749e72799b6d5"/>
+</record_update>

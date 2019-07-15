@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="GTC Transaction Lines" max_length="40" name="x_50822_gtc_fraud_gtc_transaction_lines" type="collection">
+        <element label="TestAccount" max_length="32" name="testaccount" reference="x_50822_gtc_fraud_gtc_transaction_headers" type="reference"/>
+        <element attributes="import_attribute_name=Account Number,edge_encryption_enabled=true" label="Account Number" max_length="40" name="u_account_number" type="string"/>
+        <element attributes="import_attribute_name=Amount,edge_encryption_enabled=true" label="Amount" max_length="40" name="u_amount" type="string"/>
+        <element attributes="import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="115" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=MCC,edge_encryption_enabled=true" label="MCC" max_length="40" name="u_mcc" type="string"/>
+        <element attributes="import_attribute_name=MCC Category,edge_encryption_enabled=true" label="MCC Category" max_length="121" name="u_mcc_category" type="string"/>
+        <element attributes="import_attribute_name=RAND ACCT,edge_encryption_enabled=true" label="RAND ACCT" max_length="40" name="u_rand_acct" type="string"/>
+        <element attributes="import_attribute_name=RAND MCC,edge_encryption_enabled=true" label="RAND MCC" max_length="40" name="u_rand_mcc" type="string"/>
+        <element attributes="import_attribute_name=Reference Number,edge_encryption_enabled=true" label="Reference Number" max_length="40" name="u_reference_number" type="string"/>
+        <index name="index">
+            <element name="testaccount"/>
+        </index>
+    </element>
+</database>

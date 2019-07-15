@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GTC Transactions">b5018f4b2fa2330010a749e72799b63b</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>GTC Trans Header Reals</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_50822_gtc_fraud_gtc_trans_header_real</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_50822_gtc_fraud.gtc_trans_header_real_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-14 19:09:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31018f4b2fa2330010a749e72799b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GTC Trans Header Reals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sys_app_module_31018f4b2fa2330010a749e72799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-14 19:09:24</sys_updated_on>
+        <timeline_page/>
+        <title>GTC Trans Header Reals</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

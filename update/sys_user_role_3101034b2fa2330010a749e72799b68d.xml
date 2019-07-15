@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_50822_gtc_fraud.gtc_trans_header_real_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>gtc_trans_header_real_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-14 19:09:24</sys_created_on>
+        <sys_id>3101034b2fa2330010a749e72799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_50822_gtc_fraud.gtc_trans_header_real_user</sys_name>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sys_user_role_3101034b2fa2330010a749e72799b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-14 19:09:24</sys_updated_on>
+    </sys_user_role>
+</record_update>

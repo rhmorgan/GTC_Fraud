@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="GTC Trans Headers" max_length="40" name="x_50822_gtc_fraud_gtc_transaction_headers" type="collection">
+        <element attributes="import_attribute_name=Account Number,edge_encryption_enabled=true" label="Account Number" max_length="40" name="u_account_number" type="string"/>
+        <element attributes="import_attribute_name=Comments,edge_encryption_enabled=true" label="Comments" max_length="40" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=Distance,edge_encryption_enabled=true" label="Distance" max_length="40" name="u_distance" type="string"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element attributes="import_attribute_name=Method,edge_encryption_enabled=true" label="Method" max_length="40" name="u_method" type="string"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Rand,edge_encryption_enabled=true" label="Rand" max_length="40" name="u_rand" type="string"/>
+        <element attributes="import_attribute_name=Review Category,edge_encryption_enabled=true" label="Review Category" max_length="40" name="u_review_category" type="string"/>
+        <element attributes="import_attribute_name=Statement Date" label="Statement Date" max_length="40" name="u_statement_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Total Spend,edge_encryption_enabled=true" label="Total Spend" max_length="40" name="u_total_spend" type="string"/>
+    </element>
+</database>

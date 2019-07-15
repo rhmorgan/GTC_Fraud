@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>account_number,reference_number</col_name_string>
+        <index_col_name>b4c3c30f2fa2330010a749e72799b6d2,69240b0f2fa2330010a749e72799b63e</index_col_name>
+        <logical_table_name>x_50822_gtc_fraud_gtc_trans_lines_real</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-07-14 19:31:12</sys_created_on>
+        <sys_id>0d068f4f2fa2330010a749e72799b68f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_50822_gtc_fraud_gtc_trans_lines_real</sys_name>
+        <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+        <sys_update_name>sys_index_x_50822_gtc_fraud_gtc_trans_lines_real_account_number_reference_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-14 19:31:12</sys_updated_on>
+        <table display_value="GTC Trans Lines Real" name="x_50822_gtc_fraud_gtc_trans_lines_real">9b83030f2fa2330010a749e72799b637</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

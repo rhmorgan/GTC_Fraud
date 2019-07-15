@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Data Science Methodology" section_id="7cdb4b832fe2330010a749e72799b6a8" sys_domain="global" table="x_50822_gtc_fraud_gtc_trans_header_real" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review_category</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:57:29</sys_created_on>
+            <sys_id>de0c0f832fe2330010a749e72799b624</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Science Methodology" display_value="Data Science Methodology" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">7cdb4b832fe2330010a749e72799b6a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:57:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distance</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:57:29</sys_created_on>
+            <sys_id>520c0f832fe2330010a749e72799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Science Methodology" display_value="Data Science Methodology" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">7cdb4b832fe2330010a749e72799b6a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:57:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>method</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:57:29</sys_created_on>
+            <sys_id>d20c0f832fe2330010a749e72799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Science Methodology" display_value="Data Science Methodology" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">7cdb4b832fe2330010a749e72799b6a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:57:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:57:29</sys_created_on>
+            <sys_id>560c0f832fe2330010a749e72799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Science Methodology" display_value="Data Science Methodology" name="x_50822_gtc_fraud_gtc_trans_header_real" sys_domain="global" view="Default view">7cdb4b832fe2330010a749e72799b6a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:57:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Data Science Methodology</caption>
+            <header>false</header>
+            <name>x_50822_gtc_fraud_gtc_trans_header_real</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 19:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cdb4b832fe2330010a749e72799b6a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Science Methodology</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GTC_FRAUD_P" source="x_50822_gtc_fraud">0f5a6a0b2f62330010a749e72799b6fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GTC_FRAUD_P">0f5a6a0b2f62330010a749e72799b6fe</sys_scope>
+            <sys_update_name>sys_ui_section_7cdb4b832fe2330010a749e72799b6a8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 19:56:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
